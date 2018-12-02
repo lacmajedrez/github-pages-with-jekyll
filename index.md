@@ -1,8 +1,8 @@
-# Dr. Luz Angélica Caudillo-Mata
+# Luz Angélica Caudillo-Mata, PhD
 
 ##### Computational Scientist | Applied Mathematician | Industrial Postdoctoral Fellow | AI Researcher | Bridge Builder
 
-### Short Bio
+### Bio
 
 I am a Computational Scientist and Applied Mathematician with a demonstrated history of working as a researcher in Academia,  Government Research Centers, and (more recently) Industry. I love being part of interdisciplinary teams that focus on solving problems whose solutions benefit our society.  I am also a bridge builder that works to empower the communities I belong to by starting or organizing programs, mostly in the form of events. 
 
